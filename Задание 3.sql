@@ -1,3 +1,5 @@
+-- Модуль - 3
+
 select initcap(customer.first_name) as "Имя покупателя", 
 initcap(customer.last_name) as "Фамилия покупателя", 
 address.address as "Адрес", 
